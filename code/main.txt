@@ -5,7 +5,7 @@ using namespace std;
 int main() {
   int x = 10;
   float y = 3.14;
-  string name = "Bard";
+  string name = "Azeem";
 
   int sum = x + y;
   float difference = x - y;
@@ -39,8 +39,8 @@ int main() {
   };
 
   Person person;
-  person.name = "Bard";
-  person.age = 2;
+  person.name = "Azeem";
+  person.age = 22;
   person.introduce();
 
 
